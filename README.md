@@ -54,7 +54,7 @@ Credit card fraud detection faces three fundamental challenges:
 | Gradient Boosting | 0.9959 | 0.892 | 0.878 | 0.885 | 0.984 |
 | XGBoost | 0.9963 | 0.903 | 0.893 | 0.898 | 0.986 |
 | Feng et al. (IJCNN 2021) | — | — | — | 0.878 | — |
-| **Proto-MAML v2 (Ours)** | **0.9991** | **0.941** | **0.912** | **0.962** | **0.989** |
+| **Proto-MAML v2 (Ours)** | **0.9736** | **0.1711** | **0.2912** | **0.2962** | **0.989** |
 
 ### Task-Based Evaluation (200 meta-test tasks, 95% CI)
 
