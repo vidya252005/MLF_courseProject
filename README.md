@@ -299,22 +299,6 @@ All experiments use `SEED = 42` for NumPy, PyTorch, and Python's `random` module
 - **Single dataset**: All experiments use the UCI Credit Card Fraud dataset. Evaluation on PaySim and IEEE-CIS is left for future work.
 - **Offline training**: The framework does not yet support online/continual meta-learning.
 
----
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{khaitan2024protomaml,
-  title     = {Proto-MAML: Hybrid Meta-Learning with CTGAN Augmentation and Focal Loss for Credit Card Fraud Detection},
-  author    = {Khaitan,Ankith and BS, Smruthi and Bhandiwad, Vidyashree and SJ, Preethi},
-  year      = {2024},
-  institution = {PES University, Bengaluru, India}
-}
-```
-
----
 
 ## References
 
