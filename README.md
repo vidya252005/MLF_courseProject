@@ -34,12 +34,12 @@ Credit card fraud detection faces three fundamental challenges:
 
 **Proto-MAML** addresses all three simultaneously through a unified framework combining:
 
-- 🔁 **MAML** (Model-Agnostic Meta-Learning) for fast few-shot adaptation
-- 📍 **Prototypical Networks** for metric-space embedding learning
-- 🧬 **CTGAN** for statistically valid synthetic fraud augmentation
-- 🎯 **Focal Loss** with label smoothing for imbalance-robust training
-- 🔍 **ADWIN** for real-time concept drift detection
-- 💡 **SHAP** for model explainability
+- **MAML** (Model-Agnostic Meta-Learning) for fast few-shot adaptation
+- **Prototypical Networks** for metric-space embedding learning
+- **CTGAN** for statistically valid synthetic fraud augmentation
+- **Focal Loss** with label smoothing for imbalance-robust training
+- **ADWIN** for real-time concept drift detection
+- **SHAP** for model explainability
 
 ---
 
